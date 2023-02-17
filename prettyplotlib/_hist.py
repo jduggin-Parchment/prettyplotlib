@@ -1,6 +1,6 @@
 __author__ = 'olga'
 
-from matplotlib.cbook import iterable
+from numpy import iterable
 
 from prettyplotlib.utils import remove_chartjunk, maybe_get_ax
 from prettyplotlib.colors import pretty
